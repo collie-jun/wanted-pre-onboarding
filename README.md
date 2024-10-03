@@ -15,4 +15,5 @@
 - 데이터 로딩 중에는 '불러오는 중...' 메시지가 표시됩니다.
 - 모든 상품을 로드하면 '더 이상 불러올 제품이 없습니다.' 메시지가 표시됩니다.
 
+![wanted-pre-onboarding](./src/wanted-pre-onboarding.gif)
 
